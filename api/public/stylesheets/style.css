@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: aquamarine;
+}
+
+h1{
+  font-size: xx-large;
+  color: plum;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+
+.navbar{
+  margin-bottom: 20px;
+}
+
+.nav-item.dropdown{
+ font-weight: 800;
+ font-size: larger;
+}
+.form{
+  margin-bottom: 25px;
+}
+
